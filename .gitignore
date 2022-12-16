@@ -1,0 +1,14 @@
+*.cof
+*.hex
+*.obj
+*.elf
+*.conf
+*.o
+*.bin
+*.lst
+*.map
+*.srec
+.dep/
+obj/
+Project Backups/
+.DS_STORE
